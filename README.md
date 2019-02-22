@@ -1,0 +1,1 @@
+This api for Tesonet front-end Senior party: https://github.com/tesonet/senior-frontend-party
